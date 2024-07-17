@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vraj</h1>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F926537%2Fscreenshots%2F4502924%2Fpython-2.gif&tbnid=XialIsv7hGa1mM&vet=12ahUKEwj9jK-Rma6HAxXkkmMGHfsuA04QMygqegUIARDqAQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer-animation&docid=rKHEQCuIluLUiM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwj9jK-Rma6HAxXkkmMGHfsuA04QMygqegUIARDqAQ">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajsanandiya&label=Profile%20views&color=0e75b6&style=flat" alt="vrajsanandiya" /> </p>
 
 - 📫 How to reach me **vrajsanandiya15@gmail.com**
